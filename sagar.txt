@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6456-51F7
+
+ Directory of C:\Users\HP\Desktop\abc
+
+03-05-2022  20:42    <DIR>          .
+03-05-2022  20:42    <DIR>          ..
+03-05-2022  20:42                 0 sagar.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  57,032,355,840 bytes free
